@@ -1,6 +1,5 @@
 # Potato Disease Classification
-
-A CNN-based image classifier that detects disease in potato leaves — **Early Blight**, **Late Blight**, or **Healthy** — trained on the [PlantVillage](https://www.kaggle.com/datasets/arjuntejaswi/plant-village) dataset. Includes a FastAPI backend, a React frontend, and a Google Cloud Function for serverless inference.
+A CNN-based image classifier that detects disease in potato leaves **Early Blight**, **Late Blight**, or **Healthy**  trained on the [PlantVillage](https://www.kaggle.com/datasets/arjuntejaswi/plant-village) dataset. Includes a FastAPI backend, a React frontend and a Google Cloud Function for serverless inference.
 
 ## Demo
 
