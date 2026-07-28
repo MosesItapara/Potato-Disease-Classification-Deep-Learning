@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets / generated images
+PlantVillage/
+dataset/
+AugmentedImages/
+AugementedImages
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Editor
+.vscode/
+.idea/
+.DS_Store
